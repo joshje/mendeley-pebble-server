@@ -1,0 +1,18 @@
+{
+  "name": "pebble-mendeley",
+  "version": "1.0.0",
+  "description": "Mendeley Pebble App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-session": "^1.2.0",
+    "express": "^4.13.3",
+    "mustache-express": "^1.2.1",
+    "request": "^2.62.0"
+  }
+}
